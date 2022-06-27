@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@githubhandle](https://github.com/AlierPM)
 - Twitter: [@twitterhandle](https://twitter.com/AlierPM)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
 
 
 ## 🤝 Contributing
