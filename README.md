@@ -38,19 +38,14 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author**
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/AlierPM)
+- Twitter: [@twitterhandle](https://twitter.com/AlierPM)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
